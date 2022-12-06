@@ -2,3 +2,17 @@ body {
 	font-family: Arial;
 	background-color: #edd8d8;
 }
+h1 {
+	font-size: 64px;
+	color: blueviolet;
+}
+
+p {
+	font-size: 24px;
+	margin-bottom: 50px;
+	background-color: beige;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
