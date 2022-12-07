@@ -19,7 +19,9 @@ p {
 }
 .button {
   display: block;
-  width: 100%;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
   border: none;
   background-color: #00aea5;
   color: #d8d9d0;
