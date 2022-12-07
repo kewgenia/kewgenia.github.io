@@ -21,8 +21,18 @@ p {
   width: 100%;
   border: none;
   background-color: #00aea5;
+  color: #d8d9d0;
   padding: 14px 28px;
+  font-family: inherit;
   font-size: 16px;
   cursor: pointer;
   text-align: center;
+}
+.button:hover {
+  background: #02a39b;
+}
+
+.button:focus {
+  outline: none;
+  box-shadow: 0 0 0 4px #02a39b;
 }
